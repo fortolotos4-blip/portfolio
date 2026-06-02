@@ -2,7 +2,7 @@ const projects = [
   {
     title: "Website Tracking Seal",
     desc: "Sistem tracking Seal container sederhana pada perusahaan logistik (PT Hartini Putra).",
-    link: "https://tracking-seal-hartini.onrender.com",
+    link: "https://tracking-container.infinityfreeapp.com/",
   },
   {
     title: "Dashboard Kinerja Sales",
