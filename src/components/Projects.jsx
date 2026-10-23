@@ -26,6 +26,13 @@ const projects = [
     guide: "https://drive.google.com/file/d/1ktrFsQeVLWhkpWtKTdG8nUsEOHPxACIL/view?usp=sharing",
     github: "https://github.com/fortolotos4-blip/toko-tanaman",
   },
+  {
+    title: "SpeakJawa - Penerjemah Bahasa dan Aksara",
+    desc: "Website Penerjemah Bahasa Jawa.",
+    link: "https://speakjawa.vercel.app/",
+    guide: "https://drive.google.com/file/d/1JGOgCLXLGOXMiXnnRWDh7i6L1mjU0tso/view?usp=sharing",
+    github: "https://github.com/fortolotos4-blip/speakjawa",
+  },
 ];
 
 function Projects() {
