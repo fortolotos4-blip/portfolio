@@ -8,7 +8,7 @@ function Contact() {
         </h2>
 
         <p className="text-gray-400 mb-12">
-          Saya terbuka untuk peluang kerja, freelance, maupun kolaborasi project.
+          Saya terbuka untuk peluang magang, freelance, kerja, maupun kolaborasi project.
         </p>
 
         <div className="grid md:grid-cols-3 gap-6">

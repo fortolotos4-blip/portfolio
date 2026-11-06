@@ -10,11 +10,11 @@ function Hero() {
       </h1>
 
       <p className="mt-4 text-lg md:text-xl text-gray-400">
-        Fullstack Developer
+        Web Developer & IT Support
       </p>
 
       <p className="mt-6 max-w-xl text-gray-500">
-        Saya fokus membangun website yang scalable, dan user-friendly.
+        Berfokus pada pengembangan website yang scalable dan user-friendly, serta instalasi, pemeliharaan, dan troubleshooting perangkat teknologi informasi.
       </p>
 
       <button className="mt-8 px-6 py-3 bg-blue-600 hover:bg-blue-500 transition rounded-lg">

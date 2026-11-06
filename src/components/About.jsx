@@ -8,24 +8,23 @@ function About() {
         </h2>
 
         <p className="text-gray-400 leading-relaxed">
-        Saya adalah fresh graduate Sistem Informasi tahun 2026 yang memiliki pengalaman dalam membangun website
-        serta ketertarikan besar pada pengembangan web. Dalam proses belajar dan pengembangan, saya memanfaatkan
-        AI sebagai pendukung pembelajaran, brainstorming, dan perancangan solusi untuk membantu menghasilkan website
-        yang efisien, scalable, dan user-friendly. Saya memiliki semangat belajar yang tinggi dan siap terus
-        mengembangkan kemampuan sesuai kebutuhan teknologi dan framework yang digunakan di dunia kerja.
+        Saya merupakan lulusan S1 Sistem Informasi Universitas Dinamika tahun 2026 yang memiliki ketertarikan pada bidang teknologi informasi.
+        Memiliki pengalaman dalam pengembangan aplikasi web, pengelolaan database, serta instalasi dan troubleshooting perangkat komputer. Terbiasa menggunakan berbagai teknologi web dan terus mengembangkan kemampuan untuk menghadapi kebutuhan teknologi di dunia kerja.
         </p>
-
         <div className="mt-8 flex flex-wrap justify-center gap-4">
           <span className="px-4 py-2 bg-gray-800 rounded-lg">JavaScript</span>
           <span className="px-4 py-2 bg-gray-800 rounded-lg">React</span>
-          <span className="px-4 py-2 bg-gray-800 rounded-lg">Tailwind</span>
           <span className="px-4 py-2 bg-gray-800 rounded-lg">HTML & CSS</span>
           <span className="px-4 py-2 bg-gray-800 rounded-lg">PHP</span>
           <span className="px-4 py-2 bg-gray-800 rounded-lg">Laravel</span>
           <span className="px-4 py-2 bg-gray-800 rounded-lg">Postgre dan MySQL</span>
+          <span className="px-4 py-2 bg-gray-800 rounded-lg">Microsoft Office</span>
+          <span className="px-4 py-2 bg-gray-800 rounded-lg">Perbaikan Masalah Windows</span>
+          <span className="px-4 py-2 bg-gray-800 rounded-lg">Instalasi dan Pengaturan Komputer</span>
         </div>
 
       </div>
+      <br />
     </section>
   );
 }
